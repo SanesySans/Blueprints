@@ -1,3 +1,3 @@
-# Blueprints Demo Week 2
+# Blueprints Demo
 
 Developed with Unreal Engine 5
